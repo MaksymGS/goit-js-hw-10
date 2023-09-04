@@ -46,7 +46,7 @@ img {
   }
 }
 .breed-select {
-  min-width: 400px;
+  max-width: 400px;
   
 }
 .cat-info {
