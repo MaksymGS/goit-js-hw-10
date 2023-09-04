@@ -50,8 +50,8 @@ function createMarkupBreed(arr) {
     </div>
     <div class="description-block">
       <h2 class="cat-name">${name}</h2>
-      <p class="description">${description}</p>
-      <p class=""description"><span class="temperament">Temperament: </span>${temperament}</p>
+      <p>${description}</p>
+      <p><span class="temperament">Temperament: </span>${temperament}</p>
     </div>
     `
     )

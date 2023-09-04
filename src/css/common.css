@@ -46,7 +46,7 @@ img {
   }
 }
 .breed-select {
-  width: 400px;
+  min-width: 400px;
   
 }
 .cat-info {
@@ -68,9 +68,7 @@ img {
   padding-left: 30px;
   margin-top: 0;
 }
-.description {
-  
-}
+
 .temperament {
   font-weight: 700;
 }
